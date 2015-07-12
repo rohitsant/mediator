@@ -1,0 +1,531 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"roi",
+				"rohitsant"
+			],
+			[
+				"gith",
+				"github"
+			],
+			[
+				"Q",
+				"QLearn"
+			],
+			[
+				"sta",
+				"state"
+			],
+			[
+				"ac",
+				"action"
+			],
+			[
+				"rewa",
+				"rewardGraph"
+			],
+			[
+				"learn",
+				"learner"
+			],
+			[
+				"re",
+				"rewardgraph"
+			],
+			[
+				"learner",
+				"dynaLearner"
+			],
+			[
+				"goa",
+				"goal_reward"
+			],
+			[
+				"ne",
+				"new_state"
+			],
+			[
+				"stat",
+				"state_pair"
+			],
+			[
+				"rand",
+				"randint"
+			],
+			[
+				"grid",
+				"grid_size"
+			],
+			[
+				"new",
+				"new_state"
+			],
+			[
+				"ini",
+				"init_state"
+			],
+			[
+				"gee",
+				"generateWorld"
+			],
+			[
+				"s",
+				"state"
+			],
+			[
+				"nex",
+				"nextState"
+			],
+			[
+				"a",
+				"append"
+			],
+			[
+				"goal",
+				"goal_state"
+			],
+			[
+				"w",
+				"write"
+			],
+			[
+				"p",
+				"print"
+			],
+			[
+				"c",
+				"c"
+			],
+			[
+				"pr",
+				"printList"
+			],
+			[
+				"ou",
+				"outstr"
+			],
+			[
+				"in",
+				"inlist"
+			],
+			[
+				"o",
+				"outstr"
+			],
+			[
+				"Tim",
+				"Timer_56"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "sm",
+		"selected_items":
+		[
+			[
+				"sm",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"co",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"col",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"late",
+				"LaTeXTools: View PDF"
+			],
+			[
+				"latex",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"sma",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"s",
+				"Set Syntax: Python"
+			],
+			[
+				"sp",
+				"Set Syntax: Python"
+			],
+			[
+				"",
+				"Set Syntax: C"
+			]
+		],
+		"width": 507.0
+	},
+	"console":
+	{
+		"height": 176.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/rohit/Website/mediator"
+	],
+	"file_history":
+	[
+		"/Users/rohit/Website/rohitsant.github.io/_config.yml",
+		"/Users/rohit/Website/rohitsant.github.io/.git/COMMIT_EDITMSG",
+		"/Users/rohit/Website/rohitsant.github.io/Gemfile",
+		"/Users/rohit/ros_catkin_ws/build_isolated/tf/lib/tf/transformations.py",
+		"/Users/rohit/Documents/Academics/Assg1.py",
+		"/Users/rohit/Documents/Academics/colorObj.py",
+		"/Users/rohit/Documents/Academics/LunarLockout_truebfs.py",
+		"/Users/rohit/Documents/Academics/lunar-lockout.py",
+		"/Users/rohit/Documents/Academics/Exe/Freeze/Tools/freeze/makefreeze.py",
+		"/Users/rohit/Documents/mas.py",
+		"/Users/rohit/Documents/mrf.py",
+		"/Users/rohit/Documents/Academics/Exe/Freeze/Tools/freeze/parsesetup.py",
+		"/Users/rohit/Documents/pychallenge3.py",
+		"/Users/rohit/Documents/pychallenge4.py",
+		"/Users/rohit/Documents/pychallenge5.py",
+		"/Users/rohit/Documents/pychallenge6.py",
+		"/Users/rohit/Documents/Academics/PEL/qlearn.py",
+		"/Users/rohit/Documents/Academics/PEL-master/simpleModel.py",
+		"/Users/rohit/Documents/Academics/PEL/simpleWorld.py",
+		"/Users/rohit/Documents/switch.py",
+		"/Users/rohit/Documents/Academics/PEL/testMain.py",
+		"/Users/rohit/Documents/theano_tut.py",
+		"/Users/rohit/Documents/Academics/Search/treegen.py",
+		"/Users/rohit/Documents/TSORT.py",
+		"/Users/rohit/Documents/tut_logreg_orig.py",
+		"/Users/rohit/Downloads/homework6 2/matlab/Scores.txt",
+		"/Users/rohit/Documents/Academics/CV/homework1/matlab/getFilterBankAndDictionary.m",
+		"/Users/rohit/px4ws/Robot_localization 0418.txt",
+		"/Users/rohit/px4ws/Vision Pose 0418.txt",
+		"/Users/rohit/px4ws/Terminal Logs 0416.txt",
+		"/Users/rohit/px4ws/ceres/px4-firmware/src/modules/mc_pos_control/mc_pos_control_main.cpp",
+		"/Users/rohit/Documents/log_offboard_0417_lastruns.txt",
+		"/Users/rohit/Documents/log_indoor_goodgainsattheend.txt",
+		"/Users/rohit/px4ws/Terminal Logs 0416_2",
+		"/Users/rohit/Downloads/homework5/matlab/triangulate.m",
+		"/Users/rohit/Downloads/RM/triangulate_RM.m",
+		"/Users/rohit/Downloads/gtsam-3.2.1/matlab/gtsam_examples/IMUKittiExampleGPS.m",
+		"/Users/rohit/Downloads/gtsam-3.2.1/matlab/gtsam_examples/StereoVOExample_large.m",
+		"/Users/rohit/Downloads/gtsam-3.2.1/matlab/gtsam_examples/OdometryExample.m",
+		"/Users/rohit/Downloads/gtsam-3.2.1/examples/OdometryExample.cpp",
+		"/Users/rohit/Downloads/gtsam-3.2.1/cmake/FindTBB.cmake",
+		"/Users/rohit/Downloads/gtsam-3.2.1/cmake/GtsamMatlabWrap.cmake",
+		"/Users/rohit/Downloads/gtsam_toolbox/gtsam_examples/IMUKittiExampleGPS.m",
+		"/Users/rohit/Downloads/matlab (1)/LucasKanade_RM.m",
+		"/Users/rohit/Downloads/hw04/matlab/LucasKanade.m",
+		"/Users/rohit/Downloads/hw04/matlab/LucasKanadeBasis_IC.m",
+		"/Users/rohit/Downloads/matlab (1)/LucasKanadeAffine_RM.m",
+		"/Users/rohit/px4ws/Firmware/src/modules/navigator/navigator_main.cpp",
+		"/Users/rohit/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/rohit/Library/Application Support/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/Volumes/UNTITLED/etc/extras.txt",
+		"/Volumes/UNTITLED/etc/config.txt",
+		"/Users/rohit/Downloads/hw3/matlab/ransacH.m",
+		"/Users/rohit/Downloads/hw3/matlab/generatePanorama.m",
+		"/Users/rohit/Downloads/hw3/matlab/computeH.m",
+		"/Users/rohit/Downloads/OptimalPolynomialProgram.nb",
+		"/Users/rohit/Downloads/Quadrotor_Linearization.nb",
+		"/Volumes/ESP/EFI/BOOT/refind.conf",
+		"/Users/rohit/Downloads/RaibertHopperProblem.m",
+		"/Users/rohit/Documents/Academics/PEL/Writeup.tex",
+		"/Users/rohit/Documents/Academics/PEL Data/domain_run3_2.csv",
+		"/Users/rohit/Documents/Academics/PEL Data/Writeup.tex",
+		"/Users/rohit/Documents/Academics/PEL Data/domain_run2_3.csv",
+		"/Users/rohit/Documents/Academics/PEL Data/main.py",
+		"/Users/rohit/Documents/Academics/PEL Data/newWorld.py",
+		"/Users/rohit/Documents/Academics/PEL Data/qlearn.py",
+		"/Users/rohit/Documents/Academics/PEL Data/world.py",
+		"/Users/rohit/Documents/Academics/PEL Data/model.py",
+		"/Users/rohit/Documents/Academics/PEL Data/newMain.py",
+		"/Users/rohit/Documents/Academics/PEL Data/testMain.py",
+		"/Users/rohit/Documents/Academics/PEL Data/qlearn_longwalk.py",
+		"/Users/rohit/Documents/Academics/PEL Data/simpleModel.py",
+		"/Users/rohit/Documents/Academics/PEL Data/main1.py",
+		"/Users/rohit/Documents/Academics/PEL/datalog_longworld.csv",
+		"/Users/rohit/Documents/Academics/PEL/.git/COMMIT_EDITMSG",
+		"/Users/rohit/Documents/Documents 04062014/TAGM/Mine/3dv-2013authorkit/3DV-2013AuthorKit/latex/egpaper_final.tex",
+		"/Users/rohit/Documents/Academics/newWorld_bak.py",
+		"/Users/rohit/Documents/Academics/PEL/Code clarifications.txt",
+		"/Users/rohit/Documents/15887Assg/hw3q2.cc",
+		"/Users/rohit/Documents/Academics/PEL/data_0.csv",
+		"/Users/rohit/Documents/Academics/PEL/q.csv",
+		"/Users/rohit/Documents/Academics/PEL/dyna.csv",
+		"/Users/rohit/Documents/Academics/PEL/main.py",
+		"/Users/rohit/Documents/Academics/PEL/actionChoice.py",
+		"/Users/rohit/Documents/Academics/Writeup.tex",
+		"/Users/rohit/Downloads/pomdp-solve-5.3/Makefile",
+		"/Users/rohit/Documents/15887Assg/qlearn.cpp",
+		"/Users/rohit/Documents/Academics/PEL/world.py",
+		"/Users/rohit/Documents/Academics/PEL/simpleModel.py",
+		"/Users/rohit/Documents/Academics/PEL/model.py",
+		"/Users/rohit/Documents/Academics/PEL/newWorld.py",
+		"/Users/rohit/DeepLearningTutorials/code/datasetTest.py",
+		"/Users/rohit/DeepLearningTutorials/code/rbm.py",
+		"/Users/rohit/DeepLearningTutorials/code/tempor.py",
+		"/Users/rohit/Downloads/thesis_source_oct16_2010/sampleTemporalModelDeep.m",
+		"/Users/rohit/Downloads/thesis_source_oct16_2010/trbmLearn.m",
+		"/Users/rohit/Downloads/thesis_source_oct16_2010/initializeModel.m",
+		"/Users/rohit/Downloads/thesis_source_oct16_2010/deepLearn.m",
+		"/Users/rohit/Downloads/thesis_source_oct16_2010/deepGenerate.m",
+		"/Users/rohit/DeepLearningTutorials/code/mlp.py",
+		"/Users/rohit/DeepLearningTutorials/code/DBN.py",
+		"/Users/rohit/Documents/scan.py",
+		"/Users/rohit/Documents/gradients.py",
+		"/Users/rohit/Documents/dbn.py",
+		"/Users/rohit/Downloads/thesis_source_oct16_2010/trbmLearnOld.m",
+		"/Users/rohit/Downloads/thesis_source_oct16_2010/rbmLearn.m",
+		"/Users/rohit/Documents/data_p3.txt",
+		"/Users/rohit/Documents/data.txt",
+		"/Volumes/Seagate Backup Plus Drive/Ubuntu/Dev/MAC_4_with_button/5/TimeSyncCommon.h",
+		"/Volumes/Seagate Backup Plus Drive/Ubuntu/Dev/MAC_4_with_button/5/TMsgBeaconC.nc",
+		"/Volumes/Seagate Backup Plus Drive/Ubuntu/Dev/dsp.c"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"nda",
+			"avg_accuracy",
+			"avg_f1",
+			"avg_accuracy",
+			"dAcc",
+			"Acc",
+			"dF1_SupUn",
+			"F1",
+			"dF1",
+			"F1",
+			"dAcc",
+			"Acc",
+			"counts",
+			"hist_",
+			"_v_control_mode",
+			"R_rp",
+			"R_sp",
+			"_att_sp",
+			"_pos",
+			"_pos.",
+			"LED_",
+			"t_led_color",
+			"led_color_4",
+			"MAIN_STATE_OFFBOARD",
+			"vehicle_status",
+			"vehicle_status_raw",
+			"led_color_4",
+			"green",
+			"vehicle_status",
+			"status",
+			"condition_global_position_valid",
+			"status_local",
+			"condition_global_position_valid",
+			"hil_state_quaternion",
+			"_hil_state_quaternion",
+			"global_position",
+			"condition_global_position_valid",
+			"pos_sp_triplet",
+			"position_setpoint_triplet",
+			"pos_sp_triplet",
+			"fix",
+			"gps_valid",
+			"use_gps_xy",
+			"local_position_sub",
+			"rgbled_color_green",
+			"rgbled_",
+			"rgb_",
+			"A_StIm_A",
+			"dIWp",
+			"I",
+			"T ",
+			"offboard_control_mode.ignore_velocity",
+			"flag_control_velocity_enabled",
+			"sp_offs_m",
+			"emult",
+			"_sp_move_rate",
+			"_sp_move_rate.emult",
+			"_sp_move_rate",
+			"_manual",
+			"_manual.x",
+			"flag_control_position_enabled",
+			"magnetometer_ga",
+			"magnetometer",
+			"raw_magnetometer",
+			"R_decl",
+			"rtl",
+			"offboard",
+			"att_sp",
+			"updated",
+			"commander_th",
+			"acrew",
+			"nums",
+			"train"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Acc_Sp",
+			"F1_Sp",
+			"F1_Km",
+			"Acc_Km",
+			"dAcc_SupKn",
+			"Acc_SupKn",
+			"dF1_SupKn",
+			"F1_SupKn",
+			"dF1_SupUn",
+			"F1_SupUn",
+			"dAcc_SupUn",
+			"Acc_SupUn",
+			"h",
+			"histogram"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 119.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Website.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 184.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
